@@ -1,0 +1,19 @@
+{
+  "name": "proyectonpm",
+  "version": "1.0.0",
+  "description": "proyecto NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertfox11/proyectoNPM.git"
+  },
+  "author": "Robert Salazar Arias <11rsahome@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertfox11/proyectoNPM/issues"
+  },
+  "homepage": "https://github.com/robertfox11/proyectoNPM#readme"
+}
